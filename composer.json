@@ -1,5 +1,5 @@
 {
-    "name": "flysystem-aws-s3-v3-fixed-to-r2",
+    "name": "vargatt/flysystem-aws-s3-v3-fixed-to-r2",
     "description": "AWS S3 filesystem adapter for Flysystem.",
     "keywords": ["aws", "s3", "flysystem", "filesystem", "storage", "file", "files"],
     "type": "library",
